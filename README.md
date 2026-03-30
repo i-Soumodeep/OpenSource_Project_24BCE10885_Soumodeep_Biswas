@@ -1,2 +1,14 @@
-# OpenSource_Project_24BCE10885_Soumodeep_Biswas
-An open-source project leveraging AI/ML and modern technologies to deliver smart and efficient solutions. Contributions, ideas, and improvements are highly encouraged
+# OSS Audit Project
+
+Software: LibreOffice
+
+## Scripts
+1. System Info
+2. Package Checker
+3. Disk Audit
+4. Log Analyzer
+5. Manifest Generator
+
+## How to run
+chmod +x script.sh
+./script.sh
